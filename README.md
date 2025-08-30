@@ -1,10 +1,4 @@
 ## Hi there 👋 I’m Bhargav
-
-<!--
-**bagu2005/bagu2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 💻 Computer Engineering undergraduate at Nanyang Technological University (Class of 2029)
 🌟 Exploring software development, automation, and electronics projects
 🛠️ Hands-on experience through freelancing (Upwork) and personal projects like building apps and automation workflows
@@ -43,3 +37,8 @@ Problem-solving | Adaptability | Creativity | Collaboration
 🤝 Freelanced on Upwork, creating flowcharts, API workflows, and automation solutions for clients
 
 🎾 Active in tennis and volunteer initiatives, including teaching underprivileged children and supporting NKF during COVID-19
+
+<!--
+**bagu2005/bagu2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
